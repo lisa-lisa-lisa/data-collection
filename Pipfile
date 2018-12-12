@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+jupyter = "*"
+flask = "*"
+matplotlib = "*"
+face-recognition = "*"
+opencv-contrib-python = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
